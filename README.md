@@ -3,6 +3,7 @@ A VR game where the user uses a magic wand and teleportation to fend off monster
 Created in conjunction with Kevin Lee.
 
 Assets used:
+
 https://assetstore.unity.com/packages/3d/props/weapons/3d-items-free-wand-pack-46225
 https://assetstore.unity.com/packages/2d/textures-materials/sky/fantasy-skybox-free-18353
 https://assetstore.unity.com/packages/3d/environments/fantasy/translucent-crystals-106274
